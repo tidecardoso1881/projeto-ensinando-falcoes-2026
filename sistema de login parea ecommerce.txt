@@ -1,2 +1,3 @@
-Digite email
-Digite seu nome
+Faça o cadastro
+Digite sua idade
+Fluxo de pagamento
